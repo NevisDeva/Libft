@@ -6,7 +6,7 @@
 /*   By: nbeny <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/11/17 13:39:01 by nbeny             #+#    #+#             */
-/*   Updated: 2016/11/17 13:49:05 by nbeny            ###   ########.fr       */
+/*   Updated: 2016/11/18 13:08:44 by nbeny            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,9 @@
 
 void	ft_lstadd(t_list **alst, t_list *new)
 {
-	new = ft_lstnew((&(*alst)->content), (*alst)->content_size);
-	(*alst) = new;
-	(*alst) = (*alst)->next;
+	if (alst != NULL && new != NULL)
+	{
+		new->next = *alst;
+		*alst = new;
+	}
 }
