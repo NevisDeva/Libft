@@ -6,7 +6,7 @@
 #    By: nbeny <marvin@42.fr>                       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2016/11/07 21:11:22 by nbeny             #+#    #+#              #
-#    Updated: 2016/11/18 14:09:11 by nbeny            ###   ########.fr        #
+#    Updated: 2016/11/19 17:46:35 by nbeny            ###   ########.fr        #
 #                                                                              #
 #******************************************************************************#
 
@@ -69,7 +69,12 @@ SRCS	=	ft_memset.c\
 			ft_lstdel.c\
 			ft_lstadd.c\
 			ft_lstiter.c\
-			ft_lstmap.c
+			ft_lstmap.c\
+			ft_max.c\
+			ft_min.c\
+			ft_sort_integer_tab.c\
+			ft_sort_params.c\
+			ft_sqrt.c
 
 OBJS	=	ft_memset.o\
 			ft_bzero.o\
@@ -128,7 +133,12 @@ OBJS	=	ft_memset.o\
 			ft_lstdel.o\
 			ft_lstadd.o\
 			ft_lstiter.o\
-			ft_lstmap.o
+			ft_lstmap.o\
+			ft_max.o\
+			ft_min.o\
+			ft_sort_integer_tab.o\
+			ft_sort_params.o\
+			ft_sqrt.o
 
 HDRS	=	libft.h
 

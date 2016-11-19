@@ -6,7 +6,7 @@
 /*   By: nbeny <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/11/07 20:28:14 by nbeny             #+#    #+#             */
-/*   Updated: 2016/11/18 18:52:51 by nbeny            ###   ########.fr       */
+/*   Updated: 2016/11/19 17:45:48 by nbeny            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -80,5 +80,26 @@ void			ft_lstdel(t_list **alst, void (*del)(void *, size_t));
 void			ft_lstadd(t_list **alst, t_list *new);
 void			ft_lstiter(t_list *lst, void (*f)(t_list *elem));
 t_list			*ft_lstmap(t_list *lst, t_list *(*f)(t_list *elem));
+int				ft_max(int *tab, size_t n);
+int				ft_min(int *tab, size_t n);
+void			ft_sort_integer_tab(int *tab, int size);
+void			ft_sort_params(int argc, char **argv);
+int				ft_sqrt(int nb);
 
 #endif
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
