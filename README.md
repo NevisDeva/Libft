@@ -1,7 +1,7 @@
 #Project Libft
 >>>> #####Libft exploration project.
 
-#####Grade ''(117/100)'' ''(117/125)*''
+#####Grade (117/100) (117/125)*
 --------  -----------------------
 Basic fonctions:
 - [X] Fonctions First part
