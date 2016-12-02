@@ -1,8 +1,9 @@
 #Project Libft
->>>> #####Libft exploration project.
+>>>> #####exploration project.
 
-#####Grade (117/100) (117/125)*
+#####Grade ``(117/100)`` ``(117/125)*``
 --------  -----------------------
+
 Basic fonctions:
 - [X] Fonctions First part
 - [X] Second part
@@ -20,5 +21,6 @@ additionnel:
       - [X] ft_sort_params
 
 test avec libft_unit_test:
-![unit_test]()
+![unit_test](http://zupimages.net/viewer.php?id=16/48/yj8p.png)
 test avec 42_FileChecker:
+![42_filechecker](http://zupimages.net/viewer.php?id=16/48/ofl1.png)
