@@ -20,7 +20,12 @@ additionnel:
       - [X] ft_sort_integer_tab
       - [X] ft_sort_params
 
-test avec libft_unit_test:
-![unit_test](http://imgur.com/Gg04XWu.pnj)
-test avec 42_FileChecker:
-![42_filechecker](http://imgur.com/UM9MEO0)
+
+##### test avec libft_unit_test:
+
+![unit_test](http://imgur.com/Gg04XWu.png)
+
+
+##### test avec 42_FileChecker:
+
+![42_filechecker](http://imgur.com/UM9MEO0.png)
