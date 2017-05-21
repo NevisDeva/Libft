@@ -1,7 +1,7 @@
-#Project Libft
->>>> #####exploration project.
+# Project Libft
+>>>> ##### exploration project.
 
-#####Grade ``(117/100)`` ``(117/125)*``
+##### Grade ``(117/100)`` ``(117/125)*``
 --------  -----------------------
 
 Basic fonctions:
