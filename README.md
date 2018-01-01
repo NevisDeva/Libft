@@ -1,6 +1,6 @@
-# Project Libft #######--date: novembre 2016
+# Project Libft
 >>>> ##### exploration project.
-
+date: november 2016
 ##### Grade ``(117/100)`` ``(117/125)*``
 --------  -----------------------
 
